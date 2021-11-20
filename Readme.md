@@ -11,3 +11,4 @@ Upon completion of the certificate, learners eligible to work in the US can dire
 This program also prepares you for the CompTIA A+ exams, the industry standard certification for IT— you’ll earn a dual credential when you complete both. Through a mix of video lectures, quizzes, and hands-on labs, you’ll get introduced to troubleshooting, customer service, networking, operating systems, system administration, and security — foundational IT skills required for an entry-level role. You’ll hear from Googlers whose foundations in IT support, served as launchpads for their own careers. By dedicating ~5 hours a week, you can complete in 3-6 months.
 
 This program is ACE® certified—when you complete, you can earn up to 12 college credits, the equivalent of 4 associate degree-level courses.
+____________________________________________________________________________________________________________________________________________________________________
